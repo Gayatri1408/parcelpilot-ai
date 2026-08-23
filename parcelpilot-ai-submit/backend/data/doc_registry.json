@@ -1,0 +1,56 @@
+{
+  "01_support_policy_v3_current.txt": {
+    "title": "Support Policy v3",
+    "doc_type": "policy",
+    "status": "CURRENT",
+    "authority_rank": 2,
+    "account_id": null,
+    "effective_date": "2026-05-01",
+    "notes": "Current default support severity/response targets. Overridden by signed customer agreements."
+  },
+  "02_support_policy_v2_deprecated.txt": {
+    "title": "Support Policy v2",
+    "doc_type": "policy",
+    "status": "DEPRECATED",
+    "authority_rank": 99,
+    "account_id": null,
+    "effective_date": "2025-01-01",
+    "notes": "Superseded by v3. Must never be used to answer a current request."
+  },
+  "03_cancellation_and_service_credit_sop_v4.txt": {
+    "title": "Cancellation & Service Credit SOP v4",
+    "doc_type": "sop",
+    "status": "CURRENT",
+    "authority_rank": 2,
+    "account_id": null,
+    "effective_date": "2026-06-15",
+    "notes": "Default cancellation and service-credit rules. Overridden by signed customer agreements."
+  },
+  "04_product_operations_guide_and_known_issues.txt": {
+    "title": "Product Operations Guide & Known Issues",
+    "doc_type": "product_doc",
+    "status": "CURRENT",
+    "authority_rank": 3,
+    "account_id": null,
+    "effective_date": "2026-08-14",
+    "notes": "Plan capabilities and known product issues. Lower authority than policy/SOP for support-terms questions, but authoritative for product behavior."
+  },
+  "05_northstar_logistics_enterprise_agreement.txt": {
+    "title": "Northstar Logistics Enterprise Agreement",
+    "doc_type": "customer_agreement",
+    "status": "ACTIVE",
+    "authority_rank": 1,
+    "account_id": "ACCT-001",
+    "effective_date": "2026-01-01",
+    "notes": "Signed agreement for Northstar Logistics (ACCT-001). Highest authority for this account, overrides general policy/SOP."
+  },
+  "06_lumenworks_service_agreement.txt": {
+    "title": "LumenWorks Service Agreement",
+    "doc_type": "customer_agreement",
+    "status": "ACTIVE",
+    "authority_rank": 1,
+    "account_id": "ACCT-002",
+    "effective_date": "2026-03-01",
+    "notes": "Signed agreement for LumenWorks (ACCT-002). Highest authority for this account, overrides general policy/SOP."
+  }
+}

@@ -1,0 +1,12 @@
+ParcelPilot Support Policy v2
+Status: DEPRECATED - DO NOT USE FOR CURRENT REQUESTS
+Effective: 1 January 2025
+Superseded by: Support Policy v3 effective 1 May 2026
+
+Severity and response targets (HISTORICAL - NOT CURRENT)
+P1 covers complete production outages and severe security incidents. P2 covers major feature degradation. P3 covers minor issues and questions.
+Plan: Enterprise -> P1 1 hour, P2 4 hours, P3 2 business days
+Plan: Growth -> P1 4 business hours, P2 1 business day, P3 3 business days
+Plan: Standard -> P1 8 business hours, P2 2 business days, P3 3 business days
+
+Note: This file is intentionally retained for historical reference and must not be used as current policy.
